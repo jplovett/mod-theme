@@ -1,4 +1,4 @@
-7440
+7444
 46C:\Users\legion\Documents\GitHub\mod-theme\src134055324688951074 1
 90C:\Users\legion\Documents\GitHub\mod-theme\node_modules\postcss-dir-pseudo-class\README.md134055338025095723 0
 92C:\Users\legion\Documents\GitHub\mod-theme\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h134055328709078918 0
@@ -27,7 +27,7 @@
 83C:\Users\legion\Documents\GitHub\mod-theme\node_modules\yaml\dist\doc\createNode.js134055329598522504 0
 72C:\Users\legion\Documents\GitHub\mod-theme\node_modules\parcel\README.md134055328705063020 0
 78C:\Users\legion\Documents\GitHub\mod-theme\node_modules\dependency-graph\specs134055329597419728 1
-47C:\Users\legion\Documents\GitHub\mod-theme\dist134055422215860216 1
+47C:\Users\legion\Documents\GitHub\mod-theme\dist134055423466438584 1
 111C:\Users\legion\Documents\GitHub\mod-theme\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js134055328712126833 0
 87C:\Users\legion\Documents\GitHub\mod-theme\node_modules\svgo\node_modules\commander\lib134055357099046716 1
 84C:\Users\legion\Documents\GitHub\mod-theme\node_modules\entities\lib\esm\decode.d.ts134055357100470784 0
@@ -66,7 +66,7 @@
 86C:\Users\legion\Documents\GitHub\mod-theme\node_modules\regenerator-runtime\runtime.js134055328703666708 0
 106C:\Users\legion\Documents\GitHub\mod-theme\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js134055328709353324 0
 94C:\Users\legion\Documents\GitHub\mod-theme\node_modules\yaml\dist\compose\resolve-block-seq.js134055329599219161 0
-55C:\Users\legion\Documents\GitHub\mod-theme\package.json134055421748377333 0
+55C:\Users\legion\Documents\GitHub\mod-theme\package.json134055423286670756 0
 80C:\Users\legion\Documents\GitHub\mod-theme\node_modules\svgo\types\lib\xast.d.ts134055357101847570 0
 94C:\Users\legion\Documents\GitHub\mod-theme\node_modules\svgo\plugins\addClassesToSVGElement.js134055357100701176 0
 87C:\Users\legion\Documents\GitHub\mod-theme\node_modules\caniuse-lite\data\regions\MX.js134055328714891081 0
@@ -2466,7 +2466,7 @@
 85C:\Users\legion\Documents\GitHub\mod-theme\node_modules\css-select\lib\esm\general.js134055357097619533 0
 84C:\Users\legion\Documents\GitHub\mod-theme\node_modules\@parcel\workers\src\index.js134055328706635536 0
 95C:\Users\legion\Documents\GitHub\mod-theme\node_modules\stylehacks\types\plugins\important.d.ts134055357100570724 0
-58C:\Users\legion\Documents\GitHub\mod-theme\dist\index.html134055422215709987 0
+58C:\Users\legion\Documents\GitHub\mod-theme\dist\index.html134055423465937130 0
 100C:\Users\legion\Documents\GitHub\mod-theme\node_modules\caniuse-lite\data\features\xml-serializer.js134055328717862823 0
 89C:\Users\legion\Documents\GitHub\mod-theme\node_modules\css-select\lib\esm\general.js.map134055357100406471 0
 70C:\Users\legion\Documents\GitHub\mod-theme\dist\mod-theme.316227af.css134055349145119873 0
@@ -2743,6 +2743,7 @@
 90C:\Users\legion\Documents\GitHub\mod-theme\node_modules\resolve\test\node-modules-paths.js134055338028849262 0
 101C:\Users\legion\Documents\GitHub\mod-theme\node_modules\@csstools\postcss-sign-functions\CHANGELOG.md134055338026055496 0
 78C:\Users\legion\Documents\GitHub\mod-theme\node_modules\resolve\test\node_path134055338028485211 1
+74C:\Users\legion\Documents\GitHub\mod-theme\dist\mod-theme.5525e4b8.css.map134055423466428249 0
 81C:\Users\legion\Documents\GitHub\mod-theme\node_modules\resolve\test\node_path.js134055338028849262 0
 76C:\Users\legion\Documents\GitHub\mod-theme\node_modules\is-extglob\README.md134055328703150091 0
 117C:\Users\legion\Documents\GitHub\mod-theme\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers\helpers.js134055328703402060 0
@@ -4410,6 +4411,7 @@
 77C:\Users\legion\Documents\GitHub\mod-theme\node_modules\fs-extra\lib\index.js134055329598142289 0
 73C:\Users\legion\Documents\GitHub\mod-theme\node_modules\fs-extra\lib\json134055329598376901 1
 94C:\Users\legion\Documents\GitHub\mod-theme\node_modules\css-tree\lib\syntax\node\MediaQuery.js134055357103365314 0
+69C:\Users\legion\Documents\GitHub\mod-theme\dist\mod-theme.b828852a.js134055423466193240 0
 80C:\Users\legion\Documents\GitHub\mod-theme\node_modules\fs-extra\lib\output-file134055329598233740 1
 80C:\Users\legion\Documents\GitHub\mod-theme\node_modules\fs-extra\lib\path-exists134055329598254181 1
 73C:\Users\legion\Documents\GitHub\mod-theme\node_modules\fs-extra\lib\util134055329598457509 1
@@ -5621,6 +5623,7 @@
 87C:\Users\legion\Documents\GitHub\mod-theme\node_modules\.bin\update-browserslist-db.cmd134055328718301982 0
 87C:\Users\legion\Documents\GitHub\mod-theme\node_modules\caniuse-lite\data\regions\PL.js134055328715554039 0
 87C:\Users\legion\Documents\GitHub\mod-theme\node_modules\caniuse-lite\data\regions\PM.js134055328715564648 0
+73C:\Users\legion\Documents\GitHub\mod-theme\dist\mod-theme.b828852a.js.map134055423466272050 0
 84C:\Users\legion\Documents\GitHub\mod-theme\node_modules\autoprefixer\lib\selector.js134055338029187647 0
 87C:\Users\legion\Documents\GitHub\mod-theme\node_modules\caniuse-lite\data\regions\PN.js134055328715586692 0
 87C:\Users\legion\Documents\GitHub\mod-theme\node_modules\caniuse-lite\data\regions\PR.js134055328715641380 0
@@ -7437,5 +7440,6 @@
 70C:\Users\legion\Documents\GitHub\mod-theme\dist\mod-theme.49a89bbe.css134055350571130091 0
 70C:\Users\legion\Documents\GitHub\mod-theme\dist\mod-theme.4f8ebd8b.css134055422215709987 0
 74C:\Users\legion\Documents\GitHub\mod-theme\dist\mod-theme.4f8ebd8b.css.map134055422215860216 0
+70C:\Users\legion\Documents\GitHub\mod-theme\dist\mod-theme.5525e4b8.css134055423466387879 0
 70C:\Users\legion\Documents\GitHub\mod-theme\dist\mod-theme.c4c3643d.css134055356541452301 0
 74C:\Users\legion\Documents\GitHub\mod-theme\dist\mod-theme.c4c3643d.css.map134055356541537107 0

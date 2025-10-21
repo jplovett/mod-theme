@@ -66,7 +66,7 @@
 86C:\Users\legion\Documents\GitHub\mod-theme\node_modules\regenerator-runtime\runtime.js134055328703666708 0
 106C:\Users\legion\Documents\GitHub\mod-theme\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js134055328709353324 0
 94C:\Users\legion\Documents\GitHub\mod-theme\node_modules\yaml\dist\compose\resolve-block-seq.js134055329599219161 0
-55C:\Users\legion\Documents\GitHub\mod-theme\package.json134055421748377333 0
+55C:\Users\legion\Documents\GitHub\mod-theme\package.json134055423286670756 0
 80C:\Users\legion\Documents\GitHub\mod-theme\node_modules\svgo\types\lib\xast.d.ts134055357101847570 0
 94C:\Users\legion\Documents\GitHub\mod-theme\node_modules\svgo\plugins\addClassesToSVGElement.js134055357100701176 0
 87C:\Users\legion\Documents\GitHub\mod-theme\node_modules\caniuse-lite\data\regions\MX.js134055328714891081 0

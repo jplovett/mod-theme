@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/styles/main.css"],"sourcesContent":["body{\r\n    padding: 0;\r\n    margin: 0;\r\n    background-color: #003057;\r\n    color: #dddddd;\r\n    font-weight: 500;\r\n    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\r\n}"],"names":[],"version":3,"file":"mod-theme.5525e4b8.css.map","sourceRoot":"/__parcel_source_root/"}
