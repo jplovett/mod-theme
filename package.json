@@ -1,0 +1,25 @@
+{
+  "name": "mod-theme",
+  "version": "1.0.0",
+  "description": "website template/boilerplate drop in using modern dev concepts postcss &amp; vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jplovett/mod-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jplovett/mod-theme/issues"
+  },
+  "homepage": "https://github.com/jplovett/mod-theme#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1"
+  }
+}
