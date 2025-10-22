@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "website template/boilerplate drop in using modern dev concepts postcss &amp; vanilla JS",
   "scripts": {
+    "clean": "rimraf dist",
     "start": "parcel src/index.html --dist-dir dist",
-    "build:css": "cross-env NODE_ENV=production postcss src/styles --dir dist --base src/styles",
     "build:parcel": "parcel build src/index.html --dist-dir dist",
-    "build": "npm run build:css && npm run build:parcel"
+    "build:all": "npm run clean && npm run build:parcel"
   },
   "repository": {
     "type": "git",
@@ -22,11 +22,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "cross-env": "^10.1.0",
-    "cssnano": "^7.1.1",
     "parcel": "^2.16.0",
-    "postcss": "^8.5.6",
-    "postcss-cli": "^11.0.1",
-    "postcss-import": "^16.1.1",
-    "postcss-preset-env": "^10.4.0"
+    "rimraf": "^6.0.1"
   }
 }
